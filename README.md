@@ -2,14 +2,12 @@
 
 ## ! THE MOST RECENT WEEKLY SITUATION REPORT, HERE:
 
-! Read the GLOBAL and REGIONAL COVID-19 epidemic models situation report No 46 - 2022-05-27 [here](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/situation%20reports/46%20Global%20and%20regional%20COVID-19%20epidemic%20models%20situation%20report%20No%2046%20–%202022-05-27.pdf)
+! Read the GLOBAL and REGIONAL COVID-19 epidemic models situation report No 53 - 2022-07-15 [here](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/situation%20reports/53%20Global%20and%20regional%20COVID-19%20epidemic%20models%20situation%20report%20No%2053%20–%202022-07-15.pdf)
 
 
 <br/><br/>
 
-![image](https://user-images.githubusercontent.com/30849720/169628100-1336755d-432e-4cca-8eaf-35cdb8375807.png)
 
-<br/><br/>
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) 
 [![DOI](https://zenodo.org/badge/357850528.svg)](https://zenodo.org/badge/latestdoi/357850528)
@@ -160,47 +158,51 @@ JOHN: Johns Hopkins. The coronavirus resource center, Johns Hopkins University, 
 ********************************************************************************************************************************************
 ********************************************************************************************************************************************
 
-### LATEST UPTAKE: uptake [`20220527`](https://github.com/pourmalek/CovidVisualizedGlobal/tree/main/20220527)
+### LATEST UPTAKE: uptake [`20220715`](https://github.com/pourmalek/CovidVisualizedGlobal/tree/main/20220715)
 
-### Study update dates in uptake 20220527  
+### Study update dates in uptake 20220715
 
-**_DELP 20220527_**, IHME 20220506, No IMPE, **_SRIV 20220522_** 
+DELP 20220618, IHME 20220610, **_IMPE 20220703_**, **_SRIV 20220715_** 
 
-Days old: DELP 0, IHME 21, no IMPE, SRIV 5
+Days old: DELP 28, IHME 36, IMPE 13, SRIV 0
 
-IMPE update 20220315 was released on 20220505 and is > 60 days old on 20220527. Not included. 
+The latest IMPE update 20220703 was released on 20220711.
 
+<br/><br/> 
 
-<br/><br/>
+*********
 
-### Summary 20220527:
+WE KNOW THAT AMONG THE COMING PANDEMICS IS THE SPREAD OF SEVERAL EPIDEMICS OF MORTALITY AND MORBIDITY DUE TO LOW OR ABSENT FOOD INTAKE, CONCENTRATED IN MIDDLE EAST, NORTH AFRICA, AND SUBSAHARAN AFRICA. 
 
-Reported deaths show a small bounce up trend in Europe and United States.
+DON’T WE KNOW? Yes, we do.
 
-Reported cases show a small bounce up trend in United States.
+*
 
-The SRIV model predicts increase in global daily deaths starting from mid-May 2022 reaching 12,000 per day in late August and above 3 million global cases about mid-August – primarily in United States and Europe.
+"Famine in 2022" by Dr. John Campbell, Jun 3, 2022 https://www.youtube.com/watch?v=kNv6LSpOqok
 
-The DELP model predicts a huge spike in daily deaths in Africa in June 2000, up to 950 per day, down to current levels in July.
+*********
+  
 
-<br/><br/>
-
-### NEXT-DEMICS:
-
-![image](https://user-images.githubusercontent.com/30849720/169635487-dfc4e1ff-5078-4a92-aee4-c7504ef5db39.png)
 
 <br/><br/>
 
+
+
+
+
+*********
   
 **Strengths and weakness** of the international and periodically update COVID-19 pandemic models are discussed [here]( https://github.com/pourmalek/CovidVisualizedMethodology#characteristics-of-the-models). 
 
+********* 
+  
 <br/><br/>  
   
   
 
 **** 
   
-# :eyes: SEE: the GLOBAL and REGIONAL COVID-19 epidemic models situation report No 46 - 2022-05-27 [here](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/situation%20reports/46%20Global%20and%20regional%20COVID-19%20epidemic%20models%20situation%20report%20No%2046%20–%202022-05-27.pdf)
+# :eyes: SEE: the GLOBAL and REGIONAL COVID-19 epidemic models situation report No 53 - 2022-07-15 [here](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/situation%20reports/53%20Global%20and%20regional%20COVID-19%20epidemic%20models%20situation%20report%20No%2053%20–%202022-07-15.pdf)
 
 
   
@@ -229,91 +231,91 @@ The DELP model predicts a huge spike in daily deaths in Africa in June 2000, up 
 
 ****
 
-(1) Global [Daily deaths, reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%20GLOBAL%2011a%20C-19%20daily%20deaths%2C%20GLOBAL%2C%20reference%20scenarios%2C%20all%20time.pdf)
+(1) Global [Daily deaths, reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%20GLOBAL%2011a%20C-19%20daily%20deaths%2C%20GLOBAL%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/170803882-39978cd9-dcde-4466-ba79-16abd724df94.png)
+![image](https://user-images.githubusercontent.com/30849720/179435920-d4390726-7575-43b4-b6c3-4ffcc4572846.png)
 
 ****
 
-(1b) Global [Daily deaths, reference scenarios, with excess mortality, 2020 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%20GLOBAL%2011b2%20C-19%20daily%20deaths%2C%20GLOBAL%2C%20reference%20scenarios%2C%20all%20time%20With%20IHME%20excess%20deaths.pdf)
+(1b) Global [Daily deaths, reference scenarios, with excess mortality, 2020 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%20GLOBAL%2011b2%20C-19%20daily%20deaths%2C%20GLOBAL%2C%20reference%20scenarios%2C%20all%20time%20With%20IHME%20excess%20deaths.pdf)
 
  
 ****
 
-(2) Global [Daily deaths, reference scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%20GLOBAL%2012a%20C-19%20daily%20deaths%2C%20GLOBAL%2C%20reference%20scenarios%2C%202021.pdf)
+(2) Global [Daily deaths, reference scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%20GLOBAL%2012a%20C-19%20daily%20deaths%2C%20GLOBAL%2C%20reference%20scenarios%2C%202021.pdf)
 
  
 ****
 
-(3) Global [Daily deaths, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%20GLOBAL%2014%20C-19%20daily%20deaths%2C%20GLOBAL%2C%203%20scenarios%2C%202021.pdf)
+(3) Global [Daily deaths, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%20GLOBAL%2014%20C-19%20daily%20deaths%2C%20GLOBAL%2C%203%20scenarios%2C%202021.pdf)
 
  
 ****
 
-(3b) Global [Daily deaths, 3 scenarios, 2021 on, IHME](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%20GLOBAL%2016%20C-19%20daily%20deaths%2C%20GLOBAL%2C%20scenarios%2C%20uncertainty%2C%202021%2C%20IHME.pdf)
+(3b) Global [Daily deaths, 3 scenarios, 2021 on, IHME](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%20GLOBAL%2016%20C-19%20daily%20deaths%2C%20GLOBAL%2C%20scenarios%2C%20uncertainty%2C%202021%2C%20IHME.pdf)
 
 
 ****
 
-(3d) Global [Daily deaths, reference scenarios, 2022 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%20GLOBAL%2014b%20C-19%20daily%20deaths%2C%20GLOBAL%2C%203%20scenarios%2C%202022.pdf)
+(3d) Global [Daily deaths, reference scenarios, 2022 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%20GLOBAL%2014b%20C-19%20daily%20deaths%2C%20GLOBAL%2C%203%20scenarios%2C%202022.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/170803904-d2e745e5-f70f-4e08-8e3c-026457a24ebe.png)
- 
+![image](https://user-images.githubusercontent.com/30849720/179435976-fae1a211-6da4-4074-8bda-71474035b7fb.png)
+
 ****
 
-(4) Global [Daily cases or infections, reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%20GLOBAL%2021%20C-19%20daily%20cases%2C%20GLOBAL%2C%20reference%20scenarios.pdf)
+(4) Global [Daily cases or infections, reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%20GLOBAL%2021%20C-19%20daily%20cases%2C%20GLOBAL%2C%20reference%20scenarios.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/170803930-6d9d8043-6351-43cd-8413-09c490fc78b2.png)
- 
+![image](https://user-images.githubusercontent.com/30849720/179436020-bbb4ac12-aea9-4471-8068-9a753a592a2f.png)
+
 ****
 
-(6) Global [Daily cases or infections, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%20GLOBAL%2024%20C-19%20daily%20cases%2C%20GLOBAL%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
-
- 
-****
-
-(6b) Global [Daily cases, 2022 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%20GLOBAL%2024b%20C-19%20daily%20cases%2C%20GLOBAL%2C%20reference%20scenarios%2C%202022.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/170803986-903f9ba1-12f8-4a4e-9046-b25d4ad6bf15.png)
- 
-****
-
-(6c) Global [Daily estimated infections IHME to reported cases JOHN, main scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%20GLOBAL%2025%20C19%20daily%20estimated%20infections%20to%20reported%20cases%2C%20GLOBAL%2C%20reference%20scenarios.pdf)
+(6) Global [Daily cases or infections, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%20GLOBAL%2024%20C-19%20daily%20cases%2C%20GLOBAL%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
 
  
 ****
 
-(7) Global [Hospital-related outcomes, 2020 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%20GLOBAL%2061a%20C-19%20hospital-related%20outcomes.pdf)
+(6b) Global [Daily cases, 2022 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%20GLOBAL%2024b%20C-19%20daily%20cases%2C%20GLOBAL%2C%20reference%20scenarios%2C%202022.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/179436087-8c3058c0-957e-47e2-9ebf-5d9f6f464e49.png)
+
+****
+
+(6c) Global [Daily estimated infections IHME to reported cases JOHN, main scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%20GLOBAL%2025%20C19%20daily%20estimated%20infections%20to%20reported%20cases%2C%20GLOBAL%2C%20reference%20scenarios.pdf)
 
  
 ****
 
-(8) Global [Hospital-related outcomes, 2021 on, without IHME Bed need](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%20GLOBAL%2062b%20C-19%20hospital-related%20outcomes%2C%20wo%20extremes%20ICU%20bed%20capcity.pdf)
+(7) Global [Hospital-related outcomes, 2020 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%20GLOBAL%2061a%20C-19%20hospital-related%20outcomes.pdf)
 
  
 ****
 
-(9) Global [Daily deaths estimated to reported, reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%20GLOBAL%2081%20C-19%20daily%20deaths%20estimated%20to%20reported%2C%20GLOBAL%2C%20reference%20scenarios%2C%20all%20time.pdf)
+(8) Global [Hospital-related outcomes, 2021 on, without IHME Bed need](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%20GLOBAL%2062b%20C-19%20hospital-related%20outcomes%2C%20wo%20extremes%20ICU%20bed%20capcity.pdf)
 
  
 ****
 
-(11) Global [Daily Infection outcomes ratios, 2 scenarios, 2020 on, IHME](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%20GLOBAL%2091%20C-19%20daily%20Infection%20outcomes%20ratios%2C%20GLOBAL%202%20scenarios%2C%20IHME.pdf)
+(9) Global [Daily deaths estimated to reported, reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%20GLOBAL%2081%20C-19%20daily%20deaths%20estimated%20to%20reported%2C%20GLOBAL%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
  
 ****
 
-(11b) Global [Daily Infection -detection and -hospitalizations ratios, 2 scenarios, 2020 on, IHME](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%20GLOBAL%2091b%20C-19%20daily%20Infection%20outcomes%20ratios%2C%20GLOBAL%202%20scenarios%2C%20IHME.pdf)
+(11) Global [Daily Infection outcomes ratios, 2 scenarios, 2020 on, IHME](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%20GLOBAL%2091%20C-19%20daily%20Infection%20outcomes%20ratios%2C%20GLOBAL%202%20scenarios%2C%20IHME.pdf)
 
  
 ****
 
-(12) Global [Daily mobility, 2 scenarios, 2020 on, IHME](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%20GLOBAL%2092%20C-19%20daily%20mobility%2C%20GLOBAL%2C%202%20scenarios.pdf)
+(11b) Global [Daily Infection -detection and -hospitalizations ratios, 2 scenarios, 2020 on, IHME](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%20GLOBAL%2091b%20C-19%20daily%20Infection%20outcomes%20ratios%2C%20GLOBAL%202%20scenarios%2C%20IHME.pdf)
 
  
 ****
 
-(13) Global [Daily mask use, 2 scenarios, 2020 on, IHME](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%20GLOBAL%2093%20C-19%20daily%20mask_use%2C%20GLOBAL%2C%202%20scenarios.pdf)
+(12) Global [Daily mobility, 2 scenarios, 2020 on, IHME](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%20GLOBAL%2092%20C-19%20daily%20mobility%2C%20GLOBAL%2C%202%20scenarios.pdf)
+
+ 
+****
+
+(13) Global [Daily mask use, 2 scenarios, 2020 on, IHME](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%20GLOBAL%2093%20C-19%20daily%20mask_use%2C%20GLOBAL%2C%202%20scenarios.pdf)
 
  
 ****
@@ -330,145 +332,161 @@ The DELP model predicts a huge spike in daily deaths in Africa in June 2000, up 
 
 ****
 
-(0a) Regions together [Daily deaths, with GLOBAL, 2020 on, JOHN](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%201a1%20JOHN%20C-19%20daily%20deaths%2C%20regions%20together%2C%20JOHN.pdf)
+(0a) Regions together [Daily deaths, with GLOBAL, 2020 on, JOHN](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%201a1%20JOHN%20C-19%20daily%20deaths%2C%20regions%20together%2C%20JOHN.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/170804028-4a5e7142-7adf-486f-a926-fbd7a809c5b2.png)
- 
+![image](https://user-images.githubusercontent.com/30849720/179436156-aab8eb33-b425-4b89-afb8-bfc6e89b260d.png)
+
 ****
 
-(0b) Regions together [Daily deaths, without GLOBAL, 2020 on, JOHN](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%201a2%20JOHN%20C-19%20daily%20deaths%2C%20regions%20together%2C%20JOHN.pdf)
-
- 
-****
-
-(0c) Regions together [Daily deaths, with GLOBAL, 2022 on, JOHN](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%201a5%20JOHN%20C-19%20daily%20deaths%2C%20regions%20together%2C%20JOHN.pdf)
+(0b) Regions together [Daily deaths, without GLOBAL, 2020 on, JOHN](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%201a2%20JOHN%20C-19%20daily%20deaths%2C%20regions%20together%2C%20JOHN.pdf)
 
  
 ****
 
-(0d) Regions together [Daily deaths, without GLOBAL, 2022 on, JOHN](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%201a6%20JOHN%20C-19%20daily%20deaths%2C%20regions%20together%2C%20JOHN.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/170804069-f0d6bb5a-220a-4e9f-bbff-3da619d2587c.png)
- 
-****
-
-(1) Regions together [Daily deaths, with GLOBAL, 2020 on, IHME](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%201b1%20C-19%20daily%20deaths%2C%20regions%20together%20with%20global%2C%20IHME.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/170804089-7d97ded6-49e5-4862-91e5-497c5e8eb0c2.png)
- 
-****
-
-(2) Regions together [Daily deaths, without GLOBAL, 2020 on, IHME](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%201b1%20C-19%20daily%20deaths%2C%20regions%20together%20wo%20global%2C%20IHME.pdf)
+(0c) Regions together [Daily deaths, with GLOBAL, 2022 on, JOHN](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%201a5%20JOHN%20C-19%20daily%20deaths%2C%20regions%20together%2C%20JOHN.pdf)
 
  
 ****
 
-(3) Regions together [Daily deaths, with GLOBAL, 2022 on, DELP, SRIV](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%201a2%20C-19%20daily%20deaths%2C%20regions%20together%2C%20DELP%2C%20SRIV.pdf)
+(0d) Regions together [Daily deaths, without GLOBAL, 2022 on, JOHN](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%201a6%20JOHN%20C-19%20daily%20deaths%2C%20regions%20together%2C%20JOHN.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/170804128-8fd5878a-37e0-46df-a61e-49b59e7f1588.png)
- 
+![image](https://user-images.githubusercontent.com/30849720/179436296-4800bb4f-e783-4548-b1b1-3fd25b24715e.png)
+
 ****
 
-(4) Regions together [Daily deaths, without GLOBAL, 2022 on, DELP, SRIV](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%201b2%20C-19%20daily%20deaths%2C%20regions%20together%20wo%20global%2C%20DELP%2C%20SRIV.pdf)
+(0e) Regions together [Daily deaths, without GLOBAL, 2022 June, JOHN](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%201a7%20JOHN%20C-19%20daily%20deaths%2C%20regions%20together%2C%20JOHN.pdf)
 
- 
+![image](https://user-images.githubusercontent.com/30849720/179553671-6c5b2c6d-016a-4f8e-a6f8-1bce45a4f311.png)
+
 ****
 
-(5) Regions together [Daily excess deaths, with GLOBAL, 2020 on, IHME](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%201%202%20a1%20C-19%20daily%20excess%20deaths%2C%20regions%20together%2C%20IHME.pdf)
-
- 
-****
-
-(6) Regions together [Daily excess deaths, without GLOBAL, 2020 on, IHME](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%201%202%20a1%20C-19%20daily%20excess%20deaths%2C%20regions%20together%20%20wo%20global%2C%20IHME.pdf)
+(1) Regions together [Daily deaths, with GLOBAL, 2020 on, IHME](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%201b1%20C-19%20daily%20deaths%2C%20regions%20together%20with%20global%2C%20IHME.pdf)
 
  
 ****
 
-(00a) Regions together [Daily cases, with GLOBAL, 2020 on, JOHN](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%202a1%20JOHN%20C-19%20daily%20cases%2C%20regions%20together%2C%20JOHN.pdf)
+(2) Regions together [Daily deaths, without GLOBAL, 2020 on, IHME](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%201b1%20C-19%20daily%20deaths%2C%20regions%20together%20wo%20global%2C%20IHME.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/170804166-08369c78-bf4e-4b51-819c-781f51399268.png)
- 
+.
+
 ****
 
-(00b) Regions together [Daily cases, without GLOBAL, 2020 on, JOHN](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%202a2%20JOHN%20C-19%20daily%20cases%2C%20regions%20together%2C%20JOHN.pdf)
+(3) Regions together [Daily deaths, with GLOBAL, 2022 on, DELP, SRIV](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%201a2%20C-19%20daily%20deaths%2C%20regions%20together%2C%20DELP%2C%20SRIV.pdf)
 
- 
+book
+
 ****
 
-(00c) Regions together [Daily cases, without GLOBAL, 2022 on, JOHN](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%202a6%20JOHN%20C-19%20daily%20cases%2C%20regions%20together%2C%20JOHN.pdf)
+(4) Regions together [Daily deaths, without GLOBAL, 2022 on, DELP, SRIV](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%201b2%20C-19%20daily%20deaths%2C%20regions%20together%20wo%20global%2C%20DELP%2C%20SRIV.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/170804378-18daf68a-5be0-481c-bbe2-3fa71ff0ca51.png)
- 
+![image](https://user-images.githubusercontent.com/30849720/179554175-4d42db86-8442-4e45-901a-f0c4c596791b.png)
+
 ****
 
-(7) Regions together [Daily infections, with GLOBAL, 2020 on, IHME](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%202a1%20C-19%20daily%20infections%2C%20regions%20together%2C%20IHME.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/170804415-9048b73b-e099-4c55-a7ae-9398ea4bad9a.png)
- 
-****
-
-(8) Regions together [Daily infections, without GLOBAL, 2020 on, IHME](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%202b1%20C-19%20daily%20infections%2C%20regions%20together%20wo%20global%2C%20IHME.pdf)
+(5) Regions together [Daily excess deaths, with GLOBAL, 2020 on, IHME](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%201%202%20a1%20C-19%20daily%20excess%20deaths%2C%20regions%20together%2C%20IHME.pdf)
 
  
 ****
 
-(9) Regions together [Daily cases, with GLOBAL, 2022 on, DELP, SRIV](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%202b2%20C-19%20daily%20cases%2C%20regions%20together%20with%20global%2C%20DELP%2C%20SRIV.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/170804453-3412d404-18b8-4ac4-a894-a004db529e74.png)
- 
-****
-
-(10) Regions together [Daily cases, without GLOBAL, 2022 on, DELP, SRIV](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%202b2%20C-19%20daily%20cases%2C%20regions%20together%20wo%20global%2C%20DELP%2C%20SRIV.pdf)
+(6) Regions together [Daily excess deaths, without GLOBAL, 2020 on, IHME](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%201%202%20a1%20C-19%20daily%20excess%20deaths%2C%20regions%20together%20%20wo%20global%2C%20IHME.pdf)
 
  
 ****
 
-(11) Regions together [Total deaths, with GLOBAL, 2020 on, IHME](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%203a1%20C-19%20total%20deaths%2C%20regions%20together%2C%20IHME%2C%20IMPE.pdf)
+(00a) Regions together [Daily cases, with GLOBAL, 2020 on, JOHN](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%202a1%20JOHN%20C-19%20daily%20cases%2C%20regions%20together%2C%20JOHN.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/179554387-5876bce2-f14b-468c-92dc-6800944baf41.png)
+
+****
+
+(00b) Regions together [Daily cases, without GLOBAL, 2020 on, JOHN](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%202a2%20JOHN%20C-19%20daily%20cases%2C%20regions%20together%2C%20JOHN.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/179554525-08c997f1-df95-49fe-97e0-b9f628299b25.png)
+
+****
+
+(00c) Regions together [Daily cases, without GLOBAL, 2022 on, JOHN](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%202a6%20JOHN%20C-19%20daily%20cases%2C%20regions%20together%2C%20JOHN.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/179554811-76e2a43f-021e-4d63-ba68-d5c76043b64f.png)
+
+****
+
+(00d) Regions together [Daily cases, without GLOBAL, 2022 June on, JOHN](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%202a6b%20JOHN%20C-19%20daily%20cases%2C%20regions%20together%2C%20JOHN.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/179555157-fddf974c-2dba-439b-9b75-b6773f75a4f5.png)
+
+****
+
+(7) Regions together [Daily infections, with GLOBAL, 2020 on, IHME](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%202a1%20C-19%20daily%20infections%2C%20regions%20together%2C%20IHME.pdf)
+
+.
+
+****
+
+(8) Regions together [Daily infections, without GLOBAL, 2020 on, IHME](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%202b1%20C-19%20daily%20infections%2C%20regions%20together%20wo%20global%2C%20IHME.pdf)
+
+.
+
+****
+
+(9) Regions together [Daily cases, with GLOBAL, 2022 on, DELP, SRIV](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%202b2%20C-19%20daily%20cases%2C%20regions%20together%20with%20global%2C%20DELP%2C%20SRIV.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/179555496-a2d5546f-5c2b-4671-9982-385d002cdd01.png)
+
+****
+
+(10) Regions together [Daily cases, without GLOBAL, 2022 on, DELP, SRIV](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%202b2%20C-19%20daily%20cases%2C%20regions%20together%20wo%20global%2C%20DELP%2C%20SRIV.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/179555707-7b3108a8-e307-4700-b33a-c6d9ce31d20d.png)
+
+****
+
+(11) Regions together [Total deaths, with GLOBAL, 2020 on, IHME](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%203a1%20C-19%20total%20deaths%2C%20regions%20together%2C%20IHME%2C%20IMPE.pdf)
 
  
 ****
 
-(12) Regions together [Total deaths, without GLOBAL, 2020 on, IHME](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%203b1%20C-19%20total%20deaths%2C%20regions%20together%20wo%20global%2C%20IHME%2C%20IMPE.pdf)
+(12) Regions together [Total deaths, without GLOBAL, 2020 on, IHME](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%203b1%20C-19%20total%20deaths%2C%20regions%20together%20wo%20global%2C%20IHME%2C%20IMPE.pdf)
 
  
 ****
 
-(13) Regions together [Total deaths, with GLOBAL, 2022 on, DELP, SRIV](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%203a2%20C-19%20total%20deaths%2C%20regions%20together%2C%20DELP%2C%20SRIV.pdf)
+(13) Regions together [Total deaths, with GLOBAL, 2022 on, DELP, SRIV](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%203a2%20C-19%20total%20deaths%2C%20regions%20together%2C%20DELP%2C%20SRIV.pdf)
 
  
 ****
 
-(14) Regions together [Total deaths, without GLOBAL, DELP, SRIV](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%203b2%20C-19%20total%20deaths%2C%20regions%20together%20wo%20global%2C%20DELP%2C%20SRIV.pdf)
+(14) Regions together [Total deaths, without GLOBAL, DELP, SRIV](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%203b2%20C-19%20total%20deaths%2C%20regions%20together%20wo%20global%2C%20DELP%2C%20SRIV.pdf)
 
  
 ****
 
-(15) Regions together [Total excess deaths, with GLOBAL, 2020 on, IHME](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%203%202%20a1%20C-19%20total%20excess%20deaths%2C%20regions%20together%2C%20IHME.pdf)
+(15) Regions together [Total excess deaths, with GLOBAL, 2020 on, IHME](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%203%202%20a1%20C-19%20total%20excess%20deaths%2C%20regions%20together%2C%20IHME.pdf)
 
  
 ****
 
-(16) Regions together [Total excess deaths, without GLOBAL, 2020 on, IHME](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%203%202%20a1%20C-19%20total%20excess%20deaths%2C%20regions%20together%20wo%20global%2C%20IHME.pdf)
+(16) Regions together [Total excess deaths, without GLOBAL, 2020 on, IHME](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%203%202%20a1%20C-19%20total%20excess%20deaths%2C%20regions%20together%20wo%20global%2C%20IHME.pdf)
 
  
 ****
 
-(17) Regions together [Total infections, with GLOBAL, 2020 on, IHME](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%204a1%20C-19%20total%20infections%2C%20regions%20together%2C%20IHME%2C%20IMPE.pdf)
+(17) Regions together [Total infections, with GLOBAL, 2020 on, IHME](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%204a1%20C-19%20total%20infections%2C%20regions%20together%2C%20IHME%2C%20IMPE.pdf)
 
  
 ****
 
-(18) Regions together [Total infections, without GLOBAL, 2020 on, IHME](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%203b1%20C-19%20total%20deaths%2C%20regions%20together%20wo%20global%2C%20IHME%2C%20IMPE.pdf)
+(18) Regions together [Total infections, without GLOBAL, 2020 on, IHME](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%203b1%20C-19%20total%20deaths%2C%20regions%20together%20wo%20global%2C%20IHME%2C%20IMPE.pdf)
 
  
 ****
 
-(19) Regions together [Total cases, with GLOBAL, 2022 on, DELP, SRIV](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%204a2%20C-19%20total%20cases%2C%20regions%20together%2C%20DELP%2C%20SRIV.pdf)
+(19) Regions together [Total cases, with GLOBAL, 2022 on, DELP, SRIV](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%204a2%20C-19%20total%20cases%2C%20regions%20together%2C%20DELP%2C%20SRIV.pdf)
 
  
 ****
 
-(20) Regions together [Total cases, without GLOBAL, 2022 on, DELP, SRIV](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%204b2%20C-19%20total%20cases%2C%20regions%20together%20wo%20global%2C%20DELP%2C%20SRIV.pdf)
+(20) Regions together [Total cases, without GLOBAL, 2022 on, DELP, SRIV](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%204b2%20C-19%20total%20cases%2C%20regions%20together%20wo%20global%2C%20DELP%2C%20SRIV.pdf)
 
  
 ****
@@ -486,38 +504,38 @@ The DELP model predicts a huge spike in daily deaths in Africa in June 2000, up 
 
 ****
 
-(1) African region [Daily deaths, reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%20AFRO%2011a%20C-19%20daily%20deaths%2C%20AFRO%2C%20reference%20scenarios%2C%20all%20time.pdf)
+(1) African region [Daily deaths, reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%20AFRO%2011a%20C-19%20daily%20deaths%2C%20AFRO%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/170804512-adb36602-0f23-4d01-ae7b-f82ba8221957.png)
-    
+![image](https://user-images.githubusercontent.com/30849720/179555880-9bb7acc5-e6bb-45b9-9fe5-6e3d39bfda0e.png)
+
 ****
 
-(3) African region [Daily deaths, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%20AFRO%2014%20C-19%20daily%20deaths%2C%20AFRO%2C%203%20scenarios%2C%202021.pdf)
+(3) African region [Daily deaths, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%20AFRO%2014%20C-19%20daily%20deaths%2C%20AFRO%2C%203%20scenarios%2C%202021.pdf)
 
  
 ****
 
-(3b) African region [Daily deaths, reference scenarios, 2022 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%20AFRO%2014b%20C-19%20daily%20deaths%2C%20AFRO%2C%203%20scenarios%2C%202022.pdf)
+(3b) African region [Daily deaths, reference scenarios, 2022 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%20AFRO%2014b%20C-19%20daily%20deaths%2C%20AFRO%2C%203%20scenarios%2C%202022.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/170804559-877e67a7-4650-48bd-b563-538e014609bb.png)
- 
+![image](https://user-images.githubusercontent.com/30849720/179556028-72230165-107b-4aaa-9988-cd6fcdc26ccc.png)
+
 ****
 
-(4) African region [Daily cases or infections, reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%20AFRO%2021%20C-19%20daily%20cases%2C%20AFRO%2C%20reference%20scenarios.pdf)
+(4) African region [Daily cases or infections, reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%20AFRO%2021%20C-19%20daily%20cases%2C%20AFRO%2C%20reference%20scenarios.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/170804582-91f661be-56ff-416a-ae7d-a17c5bcf9dc7.png)
+![image](https://user-images.githubusercontent.com/30849720/179561624-8dd93cfb-5ce5-4f73-a16a-10d49a492261.png)
+
+****
+
+(6) African region [Daily cases or infections, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%20AFRO%2024%20C-19%20daily%20cases%2C%20AFRO%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
+
   
 ****
 
-(6) African region [Daily cases or infections, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%20AFRO%2024%20C-19%20daily%20cases%2C%20AFRO%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
+(6b) African region [Daily cases or infections, reference scenarios, 2022 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%20AFRO%2024b%20C-19%20daily%20cases%2C%20AFRO%2C%20reference%20scenarios%2C%202022.pdf)
 
-  
-****
+![image](https://user-images.githubusercontent.com/30849720/179556209-6afca04e-6237-471d-9a5f-f267fdefe319.png)
 
-(6b) African region [Daily cases or infections, reference scenarios, 2022 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%20AFRO%2024b%20C-19%20daily%20cases%2C%20AFRO%2C%20reference%20scenarios%2C%202022.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/170804608-ccd8e659-36dd-488d-a13e-ecb356b85697.png)
- 
 ****
 
 *
@@ -534,38 +552,38 @@ The DELP model predicts a huge spike in daily deaths in Africa in June 2000, up 
 
 ****
 
-(1) Americas region [Daily deaths, reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%20AMRO%2011a%20C-19%20daily%20deaths%2C%20AMRO%2C%20reference%20scenarios%2C%20all%20time.pdf)
+(1) Americas region [Daily deaths, reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%20AMRO%2011a%20C-19%20daily%20deaths%2C%20AMRO%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/170804690-3264e827-6e73-40d1-93c9-23326be64305.png)
+![image](https://user-images.githubusercontent.com/30849720/179556335-1d883050-fcdf-4dc0-bf71-6b6584dfb23f.png)
+
+****
+
+(3) Americas region [Daily deaths, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%20AMRO%2014%20C-19%20daily%20deaths%2C%20AMRO%2C%203%20scenarios%2C%202021.pdf)
+
    
 ****
 
-(3) Americas region [Daily deaths, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%20AMRO%2014%20C-19%20daily%20deaths%2C%20AMRO%2C%203%20scenarios%2C%202021.pdf)
+(3b) Americas region [Daily deaths, reference scenarios, 2022 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%20AMRO%2014b%20C-19%20daily%20deaths%2C%20AMRO%2C%203%20scenarios%2C%202022.pdf)
 
-   
+![image](https://user-images.githubusercontent.com/30849720/179556485-c050c9db-0da3-4835-9adc-7d6aafba5240.png)
+
 ****
 
-(3b) Americas region [Daily deaths, reference scenarios, 2022 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%20AMRO%2014b%20C-19%20daily%20deaths%2C%20AMRO%2C%203%20scenarios%2C%202022.pdf)
+(4) Americas region [Daily cases or infections, reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%20AMRO%2021%20C-19%20daily%20cases%2C%20AMRO%2C%20reference%20scenarios.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/170804707-accad112-22ad-4885-a6a0-71ca992777ba.png)
- 
+![image](https://user-images.githubusercontent.com/30849720/179561796-880cef27-a1fc-4582-9c63-a62f5e3e2b33.png)
+
 ****
 
-(4) Americas region [Daily cases or infections, reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%20AMRO%2022%20C-19%20daily%20cases%2C%20AMRO%2C%20reference%20scenarios%2C%202021.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/170804734-a2f00a8b-f204-4f6c-8f2e-0abeaa98c1e2.png)
-  
-****
-
-(6) Americas region [Daily cases or infections, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%20AMRO%2024%20C-19%20daily%20cases%2C%20AMRO%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
+(6) Americas region [Daily cases or infections, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%20AMRO%2024%20C-19%20daily%20cases%2C%20AMRO%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
 
      
 ****
 
-(6b) Americas region [Daily reference, 3 scenarios, 2022 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%20AMRO%2024b%20C-19%20daily%20cases%2C%20AMRO%2C%20reference%20scenarios%2C%202022.pdf)
+(6b) Americas region [Daily reference, 3 scenarios, 2022 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%20AMRO%2024b%20C-19%20daily%20cases%2C%20AMRO%2C%20reference%20scenarios%2C%202022.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/170804748-b8fb0f65-1007-4a5f-ae06-18970b21f542.png)
- 
+![image](https://user-images.githubusercontent.com/30849720/179561949-6581822a-135e-4ab5-a8b2-d07a7bf2d8e8.png)
+
 ****
 
 *
@@ -582,38 +600,38 @@ The DELP model predicts a huge spike in daily deaths in Africa in June 2000, up 
 
 ****
 
-(1) Americas region, Canada and United States [Daily deaths, reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%20AMR1%2011a%20C-19%20daily%20deaths%2C%20AMR1%2C%20reference%20scenarios%2C%20all%20time.pdf)
+(1) Americas region, Canada and United States [Daily deaths, reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%20AMR1%2011a%20C-19%20daily%20deaths%2C%20AMR1%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/170804788-c2c36045-e96f-4515-be2e-779e17184cda.png)
-   
+![image](https://user-images.githubusercontent.com/30849720/179562463-ee951aa6-ab17-4a87-bc8e-d9bcaf485d04.png)
+
 ****
 
-(3) Americas region, Canada and United States [Daily deaths, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%20AMR1%2014%20C-19%20daily%20deaths%2C%20AMR1%2C%203%20scenarios%2C%202021.pdf)
-
-   
-****
-
-(3b) Americas region, Canada and United States [Daily deaths, reference scenarios, 2022 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%20AMR1%2014b%20C-19%20daily%20deaths%2C%20AMR1%2C%203%20scenarios%2C%202022.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/170804899-65494357-01f3-4bec-986b-91bf8ae65c4a.png)
- 
-****
-
-(4) Americas region, Canada and United States [Daily cases or infections, reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%20AMR1%2022%20C-19%20daily%20cases%2C%20AMR1%2C%20reference%20scenarios%2C%202021.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/170804918-0a0747b3-9b8f-47e1-b50c-6daf36baf634.png)
-  
-****
-
-(6) Americas region, Canada and United States [Daily cases or infections, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%20AMR1%2024%20C-19%20daily%20cases%2C%20AMR1%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
+(3) Americas region, Canada and United States [Daily deaths, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%20AMR1%2014%20C-19%20daily%20deaths%2C%20AMR1%2C%203%20scenarios%2C%202021.pdf)
 
    
 ****
 
-(6b) Americas region, Canada and United States [Daily cases or infections, reference scenarios, 2022 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%20AMR1%2024b%20C-19%20daily%20cases%2C%20AMR1%2C%20reference%20scenarios%2C%202022.pdf)
+(3b) Americas region, Canada and United States [Daily deaths, reference scenarios, 2022 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%20AMR1%2014b%20C-19%20daily%20deaths%2C%20AMR1%2C%203%20scenarios%2C%202022.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/170804938-5e04322b-f7eb-4775-8d44-8a0f724cdfe9.png)
- 
+![image](https://user-images.githubusercontent.com/30849720/179562588-61489757-17dc-496e-88e3-b435b81779cb.png)
+
+****
+
+(4) Americas region, Canada and United States [Daily cases or infections, reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%20AMR1%2021%20C-19%20daily%20cases%2C%20AMR1%2C%20reference%20scenarios.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/179562733-ff9f8ea2-c7bc-418e-87d1-66a674e97737.png)
+
+****
+
+(6) Americas region, Canada and United States [Daily cases or infections, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%20AMR1%2024%20C-19%20daily%20cases%2C%20AMR1%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
+
+   
+****
+
+(6b) Americas region, Canada and United States [Daily cases or infections, reference scenarios, 2022 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%20AMR1%2024b%20C-19%20daily%20cases%2C%20AMR1%2C%20reference%20scenarios%2C%202022.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/179562859-f2eb9d77-5ba8-4d24-9cfd-2aa11a22335f.png)
+
 ****
 
 *
@@ -631,38 +649,38 @@ The DELP model predicts a huge spike in daily deaths in Africa in June 2000, up 
 
 ****
 
-(1) Americas region, without Canada and United States [Daily deaths, reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%20AMR2%2011a%20C-19%20daily%20deaths%2C%20AMR2%2C%20reference%20scenarios%2C%20all%20time.pdf)
+(1) Americas region, without Canada and United States [Daily deaths, reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%20AMR2%2011a%20C-19%20daily%20deaths%2C%20AMR2%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/170804956-a5dbcbc4-e606-4675-ad9e-05a375480c42.png)
-   
+![image](https://user-images.githubusercontent.com/30849720/179563070-3b4e99d1-1ee7-4662-a8e1-5fe35b09ef3f.png)
+
 ****
 
-(3) Americas region, without  Canada and United States [Daily deaths, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%20AMR2%2014%20C-19%20daily%20deaths%2C%20AMR2%2C%203%20scenarios%2C%202021.pdf)
+(3) Americas region, without  Canada and United States [Daily deaths, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%20AMR2%2014%20C-19%20daily%20deaths%2C%20AMR2%2C%203%20scenarios%2C%202021.pdf)
+
+
+****
+
+(3b) Americas region, without Canada and United States [Daily deaths, reference scenarios, 2022 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%20AMR2%2014b%20C-19%20daily%20deaths%2C%20AMR2%2C%203%20scenarios%2C%202022.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/179563201-ab331c54-5f68-47e6-a6a1-9f61317a7886.png)
+
+****
+
+(4) Americas region, without Canada and United States [Daily cases or infections, reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%20AMR2%2021%20C-19%20daily%20cases%2C%20AMR2%2C%20reference%20scenarios.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/179563408-179ef12b-20f8-4bf6-8a6c-618dbcc76b90.png)
+
+****
+
+(6) Americas region, without Canada and United States [Daily cases or infections, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%20AMR2%2024%20C-19%20daily%20cases%2C%20AMR2%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
 
   
 ****
 
-(3b) Americas region, without Canada and United States [Daily deaths, reference scenarios, 2022 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%20AMR2%2014b%20C-19%20daily%20deaths%2C%20AMR2%2C%203%20scenarios%2C%202022.pdf)
+(6b) Americas region, without Canada and United States [Daily cases or infections, reference scenarios, 2022 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%20AMR2%2024b%20C-19%20daily%20cases%2C%20AMR2%2C%20reference%20scenarios%2C%202022.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/170804976-b72de215-080b-492a-9caf-048fd80ae591.png)
- 
-****
+![image](https://user-images.githubusercontent.com/30849720/179563599-f163311f-ea5a-4d43-9af9-aa0c91e3dc0e.png)
 
-(4) Americas region, without Canada and United States [Daily cases or infections, reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%20AMR2%2022%20C-19%20daily%20cases%2C%20AMR2%2C%20reference%20scenarios%2C%202021.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/170805008-11986564-a4d3-4010-be17-379a0747818f.png)
-   
-****
-
-(6) Americas region, without Canada and United States [Daily cases or infections, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%20AMR2%2024%20C-19%20daily%20cases%2C%20AMR2%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
-
-  
-****
-
-(6b) Americas region, without Canada and United States [Daily cases or infections, reference scenarios, 2022 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%20AMR2%2024b%20C-19%20daily%20cases%2C%20AMR2%2C%20reference%20scenarios%2C%202022.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/170805035-645b9cfd-361b-423c-b1dd-96315c7d9939.png)
- 
 ****
 
 
@@ -682,39 +700,38 @@ The DELP model predicts a huge spike in daily deaths in Africa in June 2000, up 
 
 ****
 
-(1) Eastern Mediterranean region [Daily deaths, reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%20EMRO%2011a%20C-19%20daily%20deaths%2C%20EMRO%2C%20reference%20scenarios%2C%20all%20time.pdf)
+(1) Eastern Mediterranean region [Daily deaths, reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%20EMRO%2011a%20C-19%20daily%20deaths%2C%20EMRO%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/170805063-af1ad955-527b-48bf-b1a8-ebc33e040a28.png)
-   
-   
+![image](https://user-images.githubusercontent.com/30849720/179565121-970963d9-e724-4712-9809-d26e36113d05.png)
+
 ****
 
-(3) Eastern Mediterranean region [Daily deaths, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%20EMRO%2014%20C-19%20daily%20deaths%2C%20EMRO%2C%203%20scenarios%2C%202021.pdf)
+(3) Eastern Mediterranean region [Daily deaths, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%20EMRO%2014%20C-19%20daily%20deaths%2C%20EMRO%2C%203%20scenarios%2C%202021.pdf)
 
-   
-****
-
-(3b) Eastern Mediterranean region [Daily deaths, reference scenarios, 2022 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%20EMRO%2014b%20C-19%20daily%20deaths%2C%20EMRO%2C%203%20scenarios%2C%202022.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/170805080-58ef0d4a-e8a7-46cb-b81c-fd5881a6bad5.png)
- 
-****
-
-(4) Eastern Mediterranean region [Daily cases or infections, reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%20EMRO%2022%20C-19%20daily%20cases%2C%20EMRO%2C%20reference%20scenarios%2C%202021.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/170805100-ea28f8f0-0bc4-4494-896b-255c265672ac.png)
    
 ****
 
-(6) Eastern Mediterranean region [Daily cases or infections, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%20EMRO%2024%20C-19%20daily%20cases%2C%20EMRO%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
+(3b) Eastern Mediterranean region [Daily deaths, reference scenarios, 2022 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%20EMRO%2014b%20C-19%20daily%20deaths%2C%20EMRO%2C%203%20scenarios%2C%202022.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/179565288-2ad4fb2b-f4af-41a5-9588-5c114f146df6.png)
+
+****
+
+(4) Eastern Mediterranean region [Daily cases or infections, reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%20EMRO%2021%20C-19%20daily%20cases%2C%20EMRO%2C%20reference%20scenarios.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/179566578-f52b4172-5a27-4de5-9d0f-bfb01047b8e3.png)
+
+****
+
+(6) Eastern Mediterranean region [Daily cases or infections, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%20EMRO%2024%20C-19%20daily%20cases%2C%20EMRO%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
 
   
 ****
 
-(6b) Eastern Mediterranean region [Daily cases or infections, reference scenarios, 2022 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%20EMRO%2024b%20C-19%20daily%20cases%2C%20EMRO%2C%20reference%20scenarios%2C%202022.pdf)
+(6b) Eastern Mediterranean region [Daily cases or infections, reference scenarios, 2022 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%20EMRO%2024b%20C-19%20daily%20cases%2C%20EMRO%2C%20reference%20scenarios%2C%202022.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/170805130-f31bf887-168d-4e8c-8de1-bf761d057f27.png)
- 
+![image](https://user-images.githubusercontent.com/30849720/179566723-9d8a1436-25ae-4df7-860c-a9e34f657a30.png)
+
 ****
 
 
@@ -733,37 +750,37 @@ The DELP model predicts a huge spike in daily deaths in Africa in June 2000, up 
 
 ****
 
-(1) European region [Daily deaths, reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%20EURO%2011a%20C-19%20daily%20deaths%2C%20EURO%2C%20reference%20scenarios%2C%20all%20time.pdf)
+(1) European region [Daily deaths, reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%20EURO%2011a%20C-19%20daily%20deaths%2C%20EURO%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/170805157-f7a56f7e-24d8-4572-a5f5-c00f46a1a1eb.png)
-   
+![image](https://user-images.githubusercontent.com/30849720/179566923-58172252-928d-4379-81a7-838ea8ce3e4a.png)
+
 ****
 
-(3) European region [Daily deaths, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%20EURO%2014%20C-19%20daily%20deaths%2C%20EURO%2C%203%20scenarios%2C%202021.pdf)
-
-   
-****
-
-(3b) European region [Daily deaths, reference scenarios, 2022 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%20EURO%2014b%20C-19%20daily%20deaths%2C%20EURO%2C%203%20scenarios%2C%202022.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/170805183-65548777-9b93-4c4c-ac64-e8f6dc1f9287.png)
- 
-****
-
-(4) European region [Daily cases or infections, reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%20EURO%2022%20C-19%20daily%20cases%2C%20EURO%2C%20reference%20scenarios%2C%202021.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/170805199-f1985a65-6cc3-4a53-90ea-e28417746050.png)
-   
-****
-
-(6) European region [Daily cases or infections, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%20EURO%2024%20C-19%20daily%20cases%2C%20EURO%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
+(3) European region [Daily deaths, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%20EURO%2014%20C-19%20daily%20deaths%2C%20EURO%2C%203%20scenarios%2C%202021.pdf)
 
    
 ****
 
-(6b) European region [Daily cases or infections, reference scenarios, 2022 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%20EURO%2024b%20C-19%20daily%20cases%2C%20EURO%2C%20reference%20scenarios%2C%202022.pdf)
+(3b) European region [Daily deaths, reference scenarios, 2022 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%20EURO%2014b%20C-19%20daily%20deaths%2C%20EURO%2C%203%20scenarios%2C%202022.pdf)
 
- ![image](https://user-images.githubusercontent.com/30849720/170805225-e0ac3fdc-396e-4f39-8ff8-407e5934fa6c.png)
+![image](https://user-images.githubusercontent.com/30849720/179567562-2748bb34-c970-42e5-8e3b-9defb5bb7587.png)
+
+****
+
+(4) European region [Daily cases or infections, reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%20EURO%2021%20C-19%20daily%20cases%2C%20EURO%2C%20reference%20scenarios.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/179567725-5edad54d-ad12-45f4-b0e9-924cdb778836.png)
+
+****
+
+(6) European region [Daily cases or infections, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%20EURO%2024%20C-19%20daily%20cases%2C%20EURO%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
+
+   
+****
+
+(6b) European region [Daily cases or infections, reference scenarios, 2022 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%20EURO%2024b%20C-19%20daily%20cases%2C%20EURO%2C%20reference%20scenarios%2C%202022.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/179567893-afa6e5b8-e694-4712-8839-4ed5014b1360.png)
 
 ****
 
@@ -784,38 +801,38 @@ The DELP model predicts a huge spike in daily deaths in Africa in June 2000, up 
 
 ****
 
-(1) South-East Asian region [Daily deaths, reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%20SEARO%2011a%20C-19%20daily%20deaths%2C%20SEARO%2C%20reference%20scenarios%2C%20all%20time.pdf)
+(1) South-East Asian region [Daily deaths, reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%20SEARO%2011a%20C-19%20daily%20deaths%2C%20SEARO%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/170805268-4dd6825a-1e6f-4c71-92bb-bcad067ca63a.png)
-  
+![image](https://user-images.githubusercontent.com/30849720/179568904-2b7d4dfb-1b35-4842-9c19-f13220920be8.png)
+
 ****
 
-(3) South-East Asian region [Daily deaths, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%20SEARO%2014%20C-19%20daily%20deaths%2C%20SEARO%2C%203%20scenarios%2C%202021.pdf)
+(3) South-East Asian region [Daily deaths, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%20SEARO%2014%20C-19%20daily%20deaths%2C%20SEARO%2C%203%20scenarios%2C%202021.pdf)
 
    
 ****
 
-(3b) South-East Asian region [Daily deaths, reference scenarios, 2022 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%20SEARO%2014b%20C-19%20daily%20deaths%2C%20SEARO%2C%203%20scenarios%2C%202022.pdf)
+(3b) South-East Asian region [Daily deaths, reference scenarios, 2022 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%20SEARO%2014b%20C-19%20daily%20deaths%2C%20SEARO%2C%203%20scenarios%2C%202022.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/170805290-d80a2f63-c332-4ebe-8d1d-f2996d7b2b51.png)
- 
+![image](https://user-images.githubusercontent.com/30849720/179569019-e401edfc-3a5c-4924-af14-36631e513152.png)
+
 ****
 
-(4) South-East Asian region [Daily cases or infections, reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%20SEARO%2022%20C-19%20daily%20cases%2C%20SEARO%2C%20reference%20scenarios%2C%202021.pdf)
+(4) South-East Asian region [Daily cases or infections, reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%20SEARO%2021%20C-19%20daily%20cases%2C%20SEARO%2C%20reference%20scenarios.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/170805428-221b5d58-325a-4762-9d2d-0088c6b4cf4f.png)
+![image](https://user-images.githubusercontent.com/30849720/179569351-c3373972-ea86-4857-b8cd-1ae8b80ff73e.png)
+
+****
+
+(6) South-East Asian region [Daily cases or infections, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%20SEARO%2024%20C-19%20daily%20cases%2C%20SEARO%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
+
    
 ****
 
-(6) South-East Asian region [Daily cases or infections, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%20SEARO%2024%20C-19%20daily%20cases%2C%20SEARO%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
+(6b) South-East Asian region [Daily cases or infections, reference scenarios, 2022 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%20SEARO%2024b%20C-19%20daily%20cases%2C%20SEARO%2C%20reference%20scenarios%2C%202022.pdf)
 
-   
-****
+![image](https://user-images.githubusercontent.com/30849720/179569219-9525174d-96fd-451e-808b-df1c7925d235.png)
 
-(6b) South-East Asian region [Daily cases or infections, reference scenarios, 2022 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%20SEARO%2024b%20C-19%20daily%20cases%2C%20SEARO%2C%20reference%20scenarios%2C%202022.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/170805452-f16a10f2-48a6-4415-9ffc-f196c037828f.png)
- 
 ****
 
 
@@ -835,39 +852,42 @@ The DELP model predicts a huge spike in daily deaths in Africa in June 2000, up 
 
 ****
 
-(1) Western Pacific region [Daily deaths, reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%20WPRO%2011a%20C-19%20daily%20deaths%2C%20WPRO%2C%20reference%20scenarios%2C%20all%20time.pdf)
+(1) Western Pacific region [Daily deaths, reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%20WPRO%2011a%20C-19%20daily%20deaths%2C%20WPRO%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/170805470-a9bc0a2c-8252-49c7-933b-ab437feb088a.png)
-   
+![image](https://user-images.githubusercontent.com/30849720/179569762-9e58e4dc-9995-4d38-8650-a4cadb53b36e.png)
+
 ****
 
-(3) Western Pacific region [Daily deaths, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%20WPRO%2014%20C-19%20daily%20deaths%2C%20WPRO%2C%203%20scenarios%2C%202021.pdf)
+(3) Western Pacific region [Daily deaths, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%20WPRO%2014%20C-19%20daily%20deaths%2C%20WPRO%2C%203%20scenarios%2C%202021.pdf)
 
   
 ****
 
-(3b) Western Pacific region [Daily deaths, reference scenarios, 2022 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%20WPRO%2014b%20C-19%20daily%20deaths%2C%20WPRO%2C%203%20scenarios%2C%202022.pdf)
+(3b) Western Pacific region [Daily deaths, reference scenarios, 2022 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%20WPRO%2014b%20C-19%20daily%20deaths%2C%20WPRO%2C%203%20scenarios%2C%202022.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/170805484-6cc038f1-fd42-41ab-886d-83f861fe2f73.png)
- 
+![image](https://user-images.githubusercontent.com/30849720/179569892-679be1dc-94cf-4886-9489-f7578ec1c180.png)
+
 ****
 
-(4) Western Pacific region [Daily cases or infections, reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%20WPRO%2022%20C-19%20daily%20cases%2C%20WPRO%2C%20reference%20scenarios%2C%202021.pdf)
+(4) Western Pacific region [Daily cases or infections, reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%20WPRO%2021%20C-19%20daily%20cases%2C%20WPRO%2C%20reference%20scenarios.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/170805506-ab05b4cb-69e0-4c8a-80a7-ad32ba44fd85.png)
+![image](https://user-images.githubusercontent.com/30849720/179570009-649f2570-72bd-4b91-ab11-937ea35ac2c4.png)
+
+****
+
+(6) Western Pacific region [Daily cases or infections, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%20WPRO%2024%20C-19%20daily%20cases%2C%20WPRO%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
+
    
 ****
 
-(6) Western Pacific region [Daily cases or infections, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%20WPRO%2024%20C-19%20daily%20cases%2C%20WPRO%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
+(6b) Western Pacific region [Daily cases or infections, reference scenarios, 2022 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220715/output/merge/graph%20WPRO%2024b%20C-19%20daily%20cases%2C%20WPRO%2C%20reference%20scenarios%2C%202022.pdf)
 
-   
+![image](https://user-images.githubusercontent.com/30849720/179570108-78cc46e2-517c-4aad-bcbf-e255589a9f12.png)
+
 ****
 
-(6b) Western Pacific region [Daily cases or infections, reference scenarios, 2022 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220527/output/merge/graph%20WPRO%2024b%20C-19%20daily%20cases%2C%20WPRO%2C%20reference%20scenarios%2C%202022.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/170805525-e4c3a35e-c2fa-4847-8f8a-6d63e3aa6377.png)
-  
-****
+
 
 
   
@@ -1243,12 +1263,29 @@ and /20220318/ denotes the date of uptake.
   
 
 
+
+
+(80) uptake [`20220715`](https://github.com/pourmalek/CovidVisualizedGlobal/tree/main/20220715): 
+DELP 20220618, IHME 20220610, **_IMPE 20220703_**, **_SRIV 20220715_**   || Days old: DELP 28, IHME 36, IMPE 13, SRIV 0
+
+(79) uptake [`20220708`](https://github.com/pourmalek/CovidVisualizedGlobal/tree/main/20220708): 
+DELP 20220618, IHME 20220610, **_IMPE 20220620_**, **_SRIV 20220708_**   || Days old: DELP 21, IHME 29, IMPE 19, SRIV 0
  
+(78) uptake [`20220701`](https://github.com/pourmalek/CovidVisualizedGlobal/tree/main/20220701): 
+DELP 20220618, IHME 20220610, No IMPE 20220530, **_SRIV 20220701_**    || Days old: DELP 14, IHME 22, IMPE 33, SRIV 0
 
+(77) uptake [`20220624`](https://github.com/pourmalek/CovidVisualizedGlobal/tree/main/20220624): 
+**_DELP 20220618_**, IHME 20220610, No 20220530, **_SRIV 20220623_**    || Days old: DELP 7, IHME 15, IMPE 26, SRIV 1
 
+(76) uptake [`20220617`](https://github.com/pourmalek/CovidVisualizedGlobal/tree/main/20220617): 
+DELP 20220529, IHME 20220610, **_IMPE 20220530_**, **_SRIV 20220617_**   || Days old: DELP 20, IHME 7, IMPE 19, SRIV 0
+  
+(75) uptake [`20220610`](https://github.com/pourmalek/CovidVisualizedGlobal/tree/main/20220610): 
+DELP 20220529, **_IHME 20220610_**, No IMPE, **_SRIV 20220610_**   || Days old: DELP 13, IHME 0, no IMPE, SRIV 0
 
-
-
+(74) uptake [`20220603`](https://github.com/pourmalek/CovidVisualizedGlobal/tree/main/20220603): 
+**_DELP 20220529_**, IHME 20220506, No IMPE, **_SRIV 20220603_**  || Days old: DELP 5, IHME 29, no IMPE, SRIV 0
+  
 (73) uptake [`20220527`](https://github.com/pourmalek/CovidVisualizedGlobal/tree/main/20220527): 
 **_DELP 20220527_**, IHME 20220506, No IMPE, **_SRIV 20220522_**  || Days old: DELP 0, IHME 21, no IMPE, SRIV 5
 
